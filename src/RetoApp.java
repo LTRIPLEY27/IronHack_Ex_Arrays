@@ -2,10 +2,8 @@ import java.util.ArrayList;
 
 public class RetoApp {
     /*
-
     1.- Write a method in Java to get the difference between the largest and smallest values in an array of integers. The length of the array must be 1 and above.
 */
-
     public  void diferencia() {
         int [] numbers = {7, 78, 96, 12, 4, 7};
         int menor = numbers[0];
@@ -28,7 +26,6 @@ public class RetoApp {
     }
 
     /* 2. Write a method in Java to find the smallest and second smallest elements of a given array and print it in the console.*/
-
     public void smallest() {
         int  [] values = {7, 89, 24, 15, 63, 14};
         int [] arreglo = new int [values.length];
@@ -49,7 +46,6 @@ public class RetoApp {
 
     /*3. Write a method in Java that resolves this mathematical expression where x and y are two variables pre-set in your code.*/
     public void fracciones() {
-
         double x = 7;
         double y = 4;
 
