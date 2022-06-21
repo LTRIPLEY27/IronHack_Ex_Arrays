@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd733c96-043f-4cb0-8fa4-9df16a798823" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClaseArchivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CourseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_1_06/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_1_06/EmployeeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_1_06/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oscar_age_female.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_1_06/employees.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_1_06/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_1_06/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_1_06/EmployeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_1_06/EmployeeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_1_06/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_1_06/Intern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +101,7 @@
       <updated>1655536472977</updated>
       <workItem from="1655536474609" duration="19972000" />
       <workItem from="1655827829996" duration="11176000" />
+      <workItem from="1655843576037" duration="3118000" />
     </task>
     <servers />
   </component>

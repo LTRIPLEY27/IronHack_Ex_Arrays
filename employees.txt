@@ -1,0 +1,12 @@
+Listado de Empleados contenidos en el programa 
+
+Interno{name='Luis', lastName='Carrillo', id='123A', salary=20000.0}
+Employee{name='Petrus', lastName='Londre', id='123D', salary=90000.0}
+Interno{name='Olga', lastName='Estevez', id='123A', salary=20000.0}
+Employee{name='Ludwig', lastName='Van Beethoven', id='123D', salary=80000.0}
+Interno{name='Ernest', lastName='Hemingway', id='123A', salary=20000.0}
+Employee{name='Sole', lastName='Londre', id='123D', salary=70000.0}
+Interno{name='Arthur', lastName='Schopenhauer', id='123A', salary=20000.0}
+Employee{name='Stella', lastName='MacCartney', id='123D', salary=50000.0}
+Interno{name='Paul', lastName='MacCartney', id='123A', salary=20000.0}
+Employee{name='Ringo', lastName='Star', id='123D', salary=100000.0}

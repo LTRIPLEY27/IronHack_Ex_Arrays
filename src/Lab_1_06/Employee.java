@@ -1,6 +1,6 @@
 package Lab_1_06;
 
-public abstract class Employee {
+public class Employee {
     protected String name;
     protected String lastName;
     protected String id;
@@ -47,8 +47,6 @@ public abstract class Employee {
     public void setSalary(double salary) {
         this.salary = salary;
     }
-
-    public abstract void setSalary(double salary);
 
     @Override
     public String toString() {
