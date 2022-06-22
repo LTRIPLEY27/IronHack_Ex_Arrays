@@ -12,10 +12,6 @@ public class Programs {
         String space = " ", charac = ".+-*/,¿?=)(/&%$·'!";
         int countL = 0, countS = 0, countN = 0, countO = 0;
         for(char f : d.toCharArray()){
-            /*countL = Character.isLetter(f) ? countL+= 1 : countL;
-            countS = f == ' ' ? countS+= 1 : countS;
-            countN = Character.isDigit(f) ? countN+= 1 : countN;
-            countO = (!Character.isLetter(f) && !(f == ' ') && !Character.isDigit(f)) ? countO+= 1 : countO;*/
             int general = Character.isLetter(f) ? (countL+= 1) : ((f == ' ') ? (countS+= 1) : (Character.isDigit(f) ? (countN+= 1) : ((!Character.isLetter(f) && !(f == ' ') && !Character.isDigit(f)) ? countO+= 1 : countO)));
         }
         System.out.println("Letras = " + countL + "\nEspacios =  " + countS + "\nNúmeros =  " + countN + "\nOtro carácter =  " + countO);
